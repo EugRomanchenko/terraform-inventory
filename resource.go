@@ -36,7 +36,7 @@ func init() {
 		"network.0.address",                                   // Packet
 		"primary_ip",                                          // Profitbricks
 		"nic_list.0.ip_endpoint_list.0.ip",                    // Nutanix
-		"name",                                                // Yandex Cloud
+		"network_interface.0.nat_ip_address",                  // Yandex Cloud
 	}
 
 	// type.name.0
